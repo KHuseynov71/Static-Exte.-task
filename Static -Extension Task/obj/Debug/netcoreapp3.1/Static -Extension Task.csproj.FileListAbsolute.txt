@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.exe
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.deps.json
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.dll
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\bin\Debug\netcoreapp3.1\Static -Extension Task.pdb
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.dll
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.pdb
+C:\Users\LENOVO\Desktop\Yazdigim Tasklar\Static, Extension task\Static -Extension Task\obj\Debug\netcoreapp3.1\Static -Extension Task.genruntimeconfig.cache
